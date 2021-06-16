@@ -1,5 +1,4 @@
 import React, { FC } from 'react'
-import { FixedSizeList } from "react-window"
 
 import { useAuth } from '../../App'
 import Subdivision from '../Subdivision'
